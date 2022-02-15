@@ -1,0 +1,28 @@
+.App {margin-top: 40px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 2rem;
+}
+body{
+  background-color: rgb(243, 231, 252);
+
+}
+button{
+height: 2.3rem;
+width: 8rem;
+background-color: rgb(245, 190, 190);
+box-shadow: brown  2px 2px 5px;
+border-radius: 30%;
+}
+input{
+  height: 2.1rem;
+width: 8rem;
+background-color: rgb(245, 190, 190);
+box-shadow: brown  1px 2px px;
+border-radius: 30%;
+margin-right: 20px;
+
+}
+.button-input{
+  margin-top: 20px;
+}
